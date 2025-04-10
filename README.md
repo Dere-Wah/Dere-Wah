@@ -4,7 +4,7 @@ Here are some of my recent projects:
 
 <p align="left">
   <a href="https://derewah.dev/api/project-redirect-0">
-    <img src="https://derewah.dev/api/recent-projects-0.svg" alt="Project 0" width="400" style="margin-right: 20px;">
+    <img src="https://derewah.dev/api/recent-projects-0.svg" alt="Project 0" width="400" style="margin-right: 100px;">
   </a>
   <a href="https://derewah.dev/api/project-redirect-1">
     <img src="https://derewah.dev/api/recent-projects-1.svg" alt="Project 1" width="400" style="margin-right: 20px;">
