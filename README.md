@@ -1,16 +1,18 @@
-## Hi there 👋
+# Recent Projects
 
-<!--
-**Dere-Wah/Dere-Wah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here are some of my recent projects:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <a href="https://derewah.dev/api/project-redirect-0">
+    <img src="https://derewah.dev/api/recent-projects-0.svg" alt="Project 0">
+  </a>
+  <a href="https://derewah.dev/api/project-redirect-1">
+    <img src="https://derewah.dev/api/recent-projects-1.svg" alt="Project 1">
+  </a>
+  <a href="https://derewah.dev/api/project-redirect-2">
+    <img src="https://derewah.dev/api/recent-projects-2.svg" alt="Project 2">
+  </a>
+  <a href="https://derewah.dev/api/project-redirect-3">
+    <img src="https://derewah.dev/api/recent-projects-3.svg" alt="Project 3">
+  </a>
+</p>
