@@ -1,7 +1,3 @@
-# Recent Projects
-
-Here are some of my recent projects:
-
 <p align="left">
   <a href="https://derewah.dev/api/project-redirect-0">
     <img src="https://derewah.dev/api/recent-projects-0.svg" alt="Project 0" width="400">
